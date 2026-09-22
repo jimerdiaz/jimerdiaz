@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🌱 I’m currently learning how to use GitHub. This is the first version of my README.
+
+☝ I’m really interested in learning about agile methodologies and how to integrate AI to improve the SDLC.
+
+🚀 Let’s keep learning!
+
 <!--
 **jimerdiaz/jimerdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
